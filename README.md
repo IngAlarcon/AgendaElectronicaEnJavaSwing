@@ -1,6 +1,8 @@
 # Agenda Electronica en Java Swing
 Programa para gestionar los contactos de una agenda electrónica hecho con Java Swing.
 
+Trabajo Práctico OBLIGATORIO INTEGRADOR del curso Java Full-Stack del PoloTic
+
 ## 1) Escenario
 
 Se necesita un programa para gestionar los contactos de una agenda electrónica.
