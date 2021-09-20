@@ -22,3 +22,10 @@ Se evaluará:
 - Las buenas prácticas implementadas.
 - El orden del código, correcta implementación de las estructuras y el uso de comentarios de guía/ayuda.
 - El cumplimiento de los formatos solicitados para cada uno de los archivos.
+
+## Vista de la Agenda Electronica 
+
+<img src="https://github.com/IngAlarcon/AgendaElectronicaEnJavaSwing/blob/main/AgendaElectronica.png"/>
+
+- Se realizo con NetBeans IDE: 8.2
+
