@@ -1,4 +1,4 @@
-# AgendaElectronicaEnJavaSwing
+# Agenda Electronica en Java Swing
 Programa para gestionar los contactos de una agenda electrónica hecho con Java Swing.
 
 ## 1) Escenario
@@ -17,8 +17,8 @@ d. Al hacer click en las fechas de derecha e izquierda se debe incrementar (o de
 ## 2) Condiciones de Evaluación
 
 Se evaluará:
-• El correcto funcionamiento del programa desarrollado.
-• Entrega del proyecto en tiempo y forma.
-• Las buenas prácticas implementadas.
-• El orden del código, correcta implementación de las estructuras y el uso de comentarios de guía/ayuda.
-• El cumplimiento de los formatos solicitados para cada uno de los archivos.
+- El correcto funcionamiento del programa desarrollado.
+- Entrega del proyecto en tiempo y forma.
+- Las buenas prácticas implementadas.
+- El orden del código, correcta implementación de las estructuras y el uso de comentarios de guía/ayuda.
+- El cumplimiento de los formatos solicitados para cada uno de los archivos.
